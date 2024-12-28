@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611056426918",
+    "project_id": "beedone-88fd7",
+    "storage_bucket": "beedone-88fd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611056426918:android:bc311b9ccb41741412f967",
+        "android_client_info": {
+          "package_name": "it.polito.BeeDone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDVUopionylc82Ykfz5-Bwveth3mugk1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
